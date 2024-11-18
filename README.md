@@ -1,1 +1,1 @@
-Proximus Code
+BlueXP gebruik bij ProximusNXT.
